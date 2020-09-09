@@ -8,4 +8,6 @@
 
 
 ### Users can view information about the company as well as view products and make purchases. Users are encouraged to leave a testimonial about their personal experience with each product that they have used.
+
+## Deployed App https://arandall88.github.io/Dionysus/
 ### Support Black Owned Businessess
